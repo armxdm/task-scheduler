@@ -1,0 +1,9 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+
+*.html
+*.xml
+*.iml
